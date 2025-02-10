@@ -1,0 +1,18 @@
+# Unity-generated files that should not be committed
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+
+# Builds
+Builds/
+[Bb]uild/
+[Bb]uilds/
+
+# Cache files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
